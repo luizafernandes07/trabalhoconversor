@@ -1,8 +1,4 @@
-Aqui está uma versão do seu `README.md` totalmente organizada, corrigindo erros de formatação (como blocos de código sem fechamento e títulos desalinhados), melhorando a estrutura visual com emojis, tabelas e organizando a documentação das funções para que fique profissional e fácil de ler.
 
----
-
-```markdown
 # 🔢 Conversor de Bases Numéricas Avançado
 
 Trabalho prático desenvolvido para a disciplina de **Introdução à Computação**. O projeto consiste em um sistema capaz de converter números entre diferentes bases numéricas de forma totalmente autoral, sem a utilização de funções prontas de conversão de tipos da biblioteca padrão (como `std::stoi`, `std::stod` ou `std::to_string`).
