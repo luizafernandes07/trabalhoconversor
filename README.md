@@ -255,13 +255,3 @@ Abaixo estão listados os principais cenários validados na nossa suíte de test
 
 <br>Binário: `0,0001100110011001` [Truncado] |
 | **Borda e Estresse** | Vários casos (`0`, `1`, `abcdef`) | Comportamento validado e estável |
-
-```
-
-### O que mudou:
-1. **Fechamento de Blocos:** O bloco de código da seção "Instruções de Execução" não tinha sido fechado no seu texto, quebrando a exibição do restante do documento.
-2. **Estrutura de Títulos:** Padronizei os níveis dos títulos (`#`, `##`, `###`) para que a barra lateral de navegação do GitHub ou GitLab consiga criar o índice perfeitamente.
-3. **Tabela de Testes:** A seção de exemplos de teste ficava muito extensa em texto corrido; formatei-a em uma tabela Markdown profissional, tornando-a muito mais fácil de compreender.
-4. **Markdown Matemático:** Usei formatação de fórmulas em blocos de texto (ex: $2^k - 1$) para ficar com renderização limpa.
-
-```
